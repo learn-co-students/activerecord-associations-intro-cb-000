@@ -11,7 +11,7 @@
 
 We already know that we can build our classes such that they associate with one
 another. We also know that it takes a lot of code to do it. Active Record
-associations allow us to associate models *and their analogous database tables*
+associations allow us to associate models *and their analogous database tables* 
 without having to write tons of code.
 
 Additionally, Active Record associations make actually working with our
